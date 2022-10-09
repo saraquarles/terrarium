@@ -3,7 +3,7 @@ body {
 }
 
 h1 {
-    color: blue;
+    color: rgb(86, 144, 92);
     text-align: center;
 }
 
@@ -83,4 +83,26 @@ h1 {
     left: 20%;
     opacity: 0.7;
     z-index: -1;
+}
+
+.jar-glossy-long {
+    width: 2%;
+    height: 25%;
+    background: rgb(215, 247, 254);
+    border-radius: 1rem;
+    max-width: 150%;
+    max-height: 150%;
+    margin-left: 30px;
+    margin-top: 250px;
+}
+
+.jar-glossy-short {
+    width: 2%;
+    height: 7%;
+    background: rgb(215, 247, 254);
+    border-radius: 1rem;
+    max-width: 150%;
+    max-height: 150%;
+    margin-top: -170px;
+    margin-left: 30px;
 }
